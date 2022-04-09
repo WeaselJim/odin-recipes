@@ -1,0 +1,1 @@
+On this project I will basically write a website using all the things I have learned so far. I will be using html, basic commands. If I have now trouble imagine later. 
